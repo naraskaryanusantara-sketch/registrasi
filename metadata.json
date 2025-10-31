@@ -1,0 +1,5 @@
+{
+  "name": "Form Registrasi Badan Usaha",
+  "description": "Sebuah formulir web untuk mengumpulkan data pengguna untuk pendirian berbagai badan usaha dan mengirimkannya melalui WhatsApp.",
+  "requestFramePermissions": []
+}
